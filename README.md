@@ -97,7 +97,7 @@ Do not upload confidential network models, licence information, or internal util
 
 Developed by Benaverd Rizanda Putra Leihitu.
 
-I gratefully acknowledge the shared knowledge, discussions, and practical experience of the Perencanaan Sistem (Power System Planning) team at PLN UIP2B JAMALI, the Java–Madura–Bali power system operator.
+I gratefully acknowledge the shared knowledge, discussions, and practical experience of the Perencanaan Sistem (Power System Planning) team (M, EA, IGRS, IL, NUA, JFS, FN, RO, FH, DRD, RH) at PLN UIP2B JAMALI, the Java–Madura–Bali power system operator.
 
 Special thanks to RO and FH for their contributions to developing the voltage ride-through automation script incorporated into Lorikeet’s LVRT and HVRT workflows.
 
