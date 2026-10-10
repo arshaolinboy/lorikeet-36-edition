@@ -63,7 +63,7 @@ Normally no. A different PSS®E Python interface may require selecting an altern
 
 No. PSS®E and its licence must be obtained and installed separately.
 
-### Can I use PSS®E 33?
+### Can I use PSS®E 33 or other verions?
 
 No. This edition targets PSS®E 36.
 
@@ -101,4 +101,4 @@ I gratefully acknowledge the shared knowledge, discussions, and practical experi
 
 Special thanks to RO and FH for their contributions to developing the voltage ride-through automation script incorporated into Lorikeet’s LVRT and HVRT workflows.
 
-Application credit: **Leawaka**.
+Application credit: **Leawaka Amapati**.
